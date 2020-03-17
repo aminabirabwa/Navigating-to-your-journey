@@ -7,4 +7,9 @@ body{
 	}
 	p{
 		color: black;
+
+	}
+	.one{
+		margin-right: 100px;
+		margin-left: 100px;
 	}
